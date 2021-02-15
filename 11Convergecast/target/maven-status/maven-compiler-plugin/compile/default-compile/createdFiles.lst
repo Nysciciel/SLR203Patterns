@@ -1,0 +1,11 @@
+demo\Convergecast.class
+demo\Merger.class
+demo\Content.class
+demo\JoinMessage.class
+demo\NotLastMessage.class
+demo\Client.class
+demo\LastMessage.class
+demo\UnJoinMessage.class
+demo\Receiver.class
+demo\Client$1.class
+demo\GoMessage.class
